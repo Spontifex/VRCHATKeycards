@@ -1,7 +1,7 @@
 {
   "Players": [
     {
-      "PlayerName": "Player1",
+      "PlayerName": "Spontifex",
       "Tier": 0
     },
     {
