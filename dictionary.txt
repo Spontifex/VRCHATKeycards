@@ -2,31 +2,31 @@
   "Players": [
     {
       "PlayerName": "Spontifex",
-      "Tier": 0
+      "PlayerTier": 0
     },
     {
       "PlayerName": "Player2",
-      "Tier": 1
+      "PlayerTier": 1
     },
     {
       "PlayerName": "Player3",
-      "Tier": 2
+      "PlayerTier": 2
     },
     {
       "PlayerName": "Player4",
-      "Tier": 3
+      "PlayerTier": 3
     },
     {
       "PlayerName": "Player5",
-      "Tier": 4
+      "PlayerTier": 4
     },
     {
       "PlayerName": "Player6",
-      "Tier": 5
+      "PlayerTier": 5
     },
     {
       "PlayerName": "Player7",
-      "Tier": 6
+      "PlayerTier": 6
     }
   ]
 }
