@@ -1,0 +1,7 @@
+{
+  "Players": {
+    "Alex": 1,
+    "Benny": 3,
+    "Spontifex": 0
+  }
+}
